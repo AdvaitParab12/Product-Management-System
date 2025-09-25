@@ -1,5 +1,6 @@
 # Product-Management-System
 
+```bash
 cd backend
 npm install
 

@@ -1,9 +1,9 @@
 # Product-Management-System
 
-## cd backend
+cd backend
 npm install
 
-## cd ../frontend
+cd ../frontend
 npm install
 
 MONGO_URI=your_mongodb_connection_string
